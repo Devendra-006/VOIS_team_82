@@ -90,5 +90,5 @@ The agent operates through a sophisticated node-based workflow that manages the 
 * 
 **Mentor:** Mr. Deepneel Majumdar 
 
-**Department:** Artificial Intelligence and Data Science, Semester 4 **College:** Marathwada Mitra Mandal’s Institute of Technology, Pune 
+**Department:** Artificial Intelligence and Data Science, Semester 4 **College:** Marathwada Mitra Mandal’s Institute of Technology, lohgaon, Pune 
 ---
